@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey! I'm Doruk, a CS student from Switzerland. 🚀 </div>  
+### <div align="center">Hey there! I'm Doruk, a CS student from Switzerland. 🚀 </div>  
 #### <div align="center">I mainly freelance Wordpress / Woocommerce development but also work on full-stack projects. 👨‍💻 </div>  
 <div align="center"> On the side, I’m currently working on my portfolio website: https://cv.peaktwilight.com </div>  
 <div align="center">  You might also know me as "Peak Twilight" from my lofi music on Spotify: https://sptfy.com/peak </div>  
