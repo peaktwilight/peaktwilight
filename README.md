@@ -2,10 +2,10 @@
   <img src="https://mx3.ch/pictures/mx3/file/0104/2980/square_large/ab6761670000ecd445f1302a578050c8a2fe46ba.jpg?1649330998" align="center" style="width: 200px" />
 </div>  
 
-### <div align="center">Hey there! I'm Doruk from Switzerland. 🚀 </div>  
-#### <div align="center">I freelance WordPress / WooCommerce websites and also work on full-stack & CyberSec projects. 👨‍💻 </div>
-<div align="center"> Currently, I'm showcasing my portfolio on <a href="https://doruk.ch" target="_blank">doruk.ch</a> </div>
-<div align="center"> You might also know me as "Peak Twilight" through my lofi music on <a href="https://peaktwilight.com" target="_blank">peaktwilight.com</a></div>  
+### <div align="center">Hey there! I'm Doruk from Switzerland. 👋 </div>  
+#### <div align="center">I freelance websites and also work on full-stack & cybersecurity projects. </div>
+<div align="center"> You can find my portfolio on <a href="https://doruk.ch" target="_blank">doruk.ch</a> </div>
+<div align="center"> Also known as "Peak Twilight" through my lofi music on <a href="https://peaktwilight.com" target="_blank">peaktwilight.com</a></div>  
 
 <br/>
 
