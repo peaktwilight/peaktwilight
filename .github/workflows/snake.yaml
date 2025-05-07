@@ -9,6 +9,8 @@ jobs:
   build:
     name: Jobs to update snake animation
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
