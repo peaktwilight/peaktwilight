@@ -20,6 +20,24 @@
 
 <br/>
 
+## Connect with me  
+<div align="center">
+  <a href="https://instagram.com/peaktwilight" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/doruk-ozturk" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://music.apple.com/us/artist/peak-twilight/1508664136" target="_blank">
+    <img src="https://img.shields.io/badge/Apple%20Music-FA57C1?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music" style="margin-bottom: 5px;" />
+  </a>
+</div>  
+
+<br/>
+
 ## Technologies I work with
 <table><tr><td valign="top" width="25%">
 
@@ -138,15 +156,3 @@
 
 </td>
 </tr> </table>
-
-<br/>
-
-## Connect with me  
-<div align="center">
-  <a href="https://instagram.com/peaktwilight" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/doruk-ozturk" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-</div>  
