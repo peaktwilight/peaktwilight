@@ -1,7 +1,8 @@
+
+#### <div align="center"><img src="https://komarev.com/ghpvc/?username=peaktwilight&&style=flat-square" align="center" /> </div>
 ##
 # <div align="center"> <👋Ciao, World!>  </div> 
 
-#### <div align="center"><img src="https://komarev.com/ghpvc/?username=peaktwilight&&style=flat-square" align="center" /> </div>
 ### <div align="center">I'm Doruk from Switzerland :)</div>  
 #### <div align="center">When I'm not studying, I work as a cyber defense engineer @ MGB. </div>
 
