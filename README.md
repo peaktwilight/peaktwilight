@@ -3,6 +3,10 @@
 
 ### <div align="center">I'm Doruk from Switzerland :)</div>  
 #### <div align="center">When I'm not studying, I work as a cyber defense engineer @ MGB. </div>
+
+<div align="center"> You can find my portfolio on <a href="https://doruk.ch" target="_blank">doruk.ch</a> </div>
+<div align="center"> Also known as "Peak Twilight" through my lofi music on <a href="https://peaktwilight.com" target="_blank">peaktwilight.com</a></div>  
+
 #### <div align="center"><img src="https://komarev.com/ghpvc/?username=peaktwilight&&style=flat-square" align="center" /> </div>
 <div align="center">
   <picture>
@@ -11,9 +15,6 @@
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
 </div>
-<div align="center"> You can find my portfolio on <a href="https://doruk.ch" target="_blank">doruk.ch</a> </div>
-<div align="center"> Also known as "Peak Twilight" through my lofi music on <a href="https://peaktwilight.com" target="_blank">peaktwilight.com</a></div>  
-
 <br/>
 
 ## Connect with me  
