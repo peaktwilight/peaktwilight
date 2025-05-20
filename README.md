@@ -1,13 +1,13 @@
 ##
 # <div align="center"> <👋Ciao, World!>  </div> 
 
+#### <div align="center"><img src="https://komarev.com/ghpvc/?username=peaktwilight&&style=flat-square" align="center" /> </div>
 ### <div align="center">I'm Doruk from Switzerland :)</div>  
 #### <div align="center">When I'm not studying, I work as a cyber defense engineer @ MGB. </div>
 
 <div align="center"> You can find my portfolio on <a href="https://doruk.ch" target="_blank">doruk.ch</a> </div>
 <div align="center"> Also known as "Peak Twilight" through my lofi music on <a href="https://peaktwilight.com" target="_blank">peaktwilight.com</a></div>  
 
-#### <div align="center"><img src="https://komarev.com/ghpvc/?username=peaktwilight&&style=flat-square" align="center" /> </div>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
