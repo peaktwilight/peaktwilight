@@ -1,10 +1,6 @@
 ##
 # <div align="center"> <👋Ciao, World!>  </div> 
 
-<div align="center">
-  <img src="https://mx3.ch/pictures/mx3/file/0104/2980/square_large/ab6761670000ecd445f1302a578050c8a2fe46ba.jpg?1649330998" align="center" style="width: 200px" />
-</div>
-
 ### <div align="center">I'm Doruk from Switzerland :)</div>  
 #### <div align="center">When I'm not studying, I work as a cyber defense engineer @ MGB. </div>
 #### <div align="center"><img src="https://komarev.com/ghpvc/?username=peaktwilight&&style=flat-square" align="center" /> </div>
