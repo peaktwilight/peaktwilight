@@ -30,7 +30,7 @@
 - **[pwnkit](https://github.com/0sec-labs/pwnkit)**: attack-driven evals and autonomous pentesting for AI systems, web apps, code, and packages
 - **[foxguard](https://github.com/0sec-labs/foxguard)**: linter-fast security scanning and policy checks for catching regressions before deploy
 - **[opensoar](https://github.com/opensoar-hq/opensoar-core)**: response and orchestration for validated failures and incidents
-- **[Noeris](https://github.com/peaktwilight/noeris)**: PwnKit Labs Research OS for autonomous empirical discovery, currently led by a flagship GPU kernel optimization track
+- **[Noeris](https://github.com/peaktwilight/noeris)**: 0sec research system for autonomous empirical discovery, currently led by a flagship GPU kernel optimization track
 
 ## Connect with me
 <div align="center">
