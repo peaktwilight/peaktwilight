@@ -26,7 +26,7 @@
 
 ## What I'm building
 
-- **[0sec Labs](https://0sec.ai)**: adversarial security company behind the core security and AI-reliability products
+- **[0sec](https://0sec.ai)**: adversarial security company behind the core security and AI-reliability products
 - **[pwnkit](https://github.com/0sec-labs/pwnkit)**: attack-driven evals and autonomous pentesting for AI systems, web apps, code, and packages
 - **[foxguard](https://github.com/0sec-labs/foxguard)**: linter-fast security scanning and policy checks for catching regressions before deploy
 - **[opensoar](https://github.com/opensoar-hq/opensoar-core)**: response and orchestration for validated failures and incidents
