@@ -3,11 +3,11 @@
 # <div align="center"> <👋Ciao, World!>  </div>
 
 ### <div align="center">I'm Doruk from Switzerland :)</div>
-#### <div align="center">Co-founder of <a href="https://0sec.ai" target="_blank">0sec Labs</a> and cyber defense engineer by day.</div>
+#### <div align="center">Co-founder of <a href="https://0sec.ai" target="_blank">0sec Labs</a>, researching cybersecurity for the agentic future.</div>
 
 <div align="center">Building reproducible exploit evidence for software, AI systems, and security teams.</div>
 <div align="center">
-  <a href="https://github.com/0sec-labs/pwnkit" target="_blank">pwnkit</a> ·
+  <a href="https://0sec.ai/pwnkit" target="_blank">pwnkit</a> ·
   <a href="https://github.com/0sec-labs/foxguard" target="_blank">foxguard</a> ·
   <a href="https://github.com/opensoar-hq/opensoar-core" target="_blank">opensoar</a>
 </div>
@@ -27,10 +27,10 @@
 ## What I'm building
 
 - **[0sec](https://0sec.ai)**: adversarial security company behind the core security and AI-reliability products
-- **[pwnkit](https://github.com/0sec-labs/pwnkit)**: attack-driven evals and autonomous pentesting for AI systems, web apps, code, and packages
+- **[pwnkit](https://0sec.ai/pwnkit)**: attack-driven evals and autonomous pentesting for AI systems, web apps, code, and packages
 - **[foxguard](https://github.com/0sec-labs/foxguard)**: linter-fast security scanning and policy checks for catching regressions before deploy
 - **[opensoar](https://github.com/opensoar-hq/opensoar-core)**: response and orchestration for validated failures and incidents
-- **[Noeris](https://github.com/peaktwilight/noeris)**: 0sec research system for autonomous empirical discovery, currently led by a flagship GPU kernel optimization track
+- **[Noeris](https://github.com/0sec-labs/noeris)**: 0sec research system for autonomous empirical discovery, currently led by a flagship GPU kernel optimization track
 
 ## Connect with me
 <div align="center">
