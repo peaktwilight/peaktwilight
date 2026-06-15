@@ -26,8 +26,8 @@
 
 ## What I'm building
 
-- **[0sec](https://0sec.ai)**: adversarial security company behind the core security and AI-reliability products
-- **[pwnkit](https://0sec.ai/pwnkit)**: attack-driven evals and autonomous pentesting for AI systems, web apps, code, and packages
+- **[0sec](https://0sec.ai)**: cybersecurity research lab building an autonomous hacking engine that breaks software to secure it
+- **[pwnkit](https://0sec.ai/pwnkit)**: the closed-source autonomous hacking engine — finds and verifies real vulnerabilities across AI systems, web apps, code, and packages
 - **[foxguard](https://github.com/0sec-labs/foxguard)**: linter-fast security scanning and policy checks for catching regressions before deploy
 - **[opensoar](https://github.com/opensoar-hq/opensoar-core)**: response and orchestration for validated failures and incidents
 - **[Noeris](https://github.com/0sec-labs/noeris)**: 0sec research system for autonomous empirical discovery, currently led by a flagship GPU kernel optimization track
